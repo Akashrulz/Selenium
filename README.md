@@ -3,7 +3,7 @@ Created a small web-based application by selecting relevant system environment/p
 
 Step by Step Tutorial:-
 
-First of Download Latest Eclipse java photon-R version.
+First of Download Latest Eclipse java photon version.
 
 Download latest selenium-server-standalone-3.13.0 jar File from following link https://www.seleniumhq.org/download/ here on site 3.14.0 version is latest
 
